@@ -1,0 +1,17 @@
+.main-row{
+    height: 200vh;
+    align-content: center;
+   
+}
+.main-col{
+    max-width: 500px;
+    min-height: 300px;
+    background-color:gray;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+.todo-done{
+    text-decoration: line-through;
+}
